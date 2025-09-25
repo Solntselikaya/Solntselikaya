@@ -1,10 +1,9 @@
 <h2 align="center"> Hi traveler, Sonya's here! <br/>°˖✧◝(⁰▿⁰)◜✧˖°</h2>
 
 ### About me („• ᴗ •„)
-- Student of Higher IT School in Tomsk State University
 - I'm from Tomsk, Russia
 - Fond of studying, learning new and a real hardworker
-- Adore anime, manga, games and nature walk  
+- Adore anime, manga, games and strolling  
 
 ### My social media (¬‿¬ )
 [<img alt="my_telegram" height="25px" src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram"/>][telegram]
